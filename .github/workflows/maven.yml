@@ -14,7 +14,7 @@ jobs:
 
     runs-on: ubuntu-latest
     environment:
-      name: NonProd
+      name: Non Prod
 
     steps:
     - uses: actions/checkout@v2
